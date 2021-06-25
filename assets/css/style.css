@@ -91,15 +91,17 @@ p{
     color: #ffffff;
 }
 
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-.primary-img{
+.benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 .content div{
     margin-bottom: 20px;
     padding: 50px;
@@ -109,7 +111,7 @@ h3 {
     color: #ffffff;
 }
 
-.secondary-img{
+.content img{
     max-height: 200px;
 }
 
