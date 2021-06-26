@@ -26,11 +26,11 @@ THEN I find a concise, descriptive title
 
 ## Lessons Learned
 
-The challenge was designed to support what we learned in class. it implements the basic knowledge of HTML & CSS. Upon recieving the websites code I immediatly notice the broken anchor on search engine optimization and fixed it so it would jump to the right section of the website. I then shifted my focus on the CSS and begin to clean up the repeative code and removed the reliance on pointless classes. I also implemented semantic HTML and was able to elimenate the header and the footer class and made the CSS rely on the HTML tags for that portion. I also updated both the head title and the image descriptions both play an important role in search engine optimization of the site. Yhe last thing I did to the code to simplfy and make it easyier to read was group the CSS code by its section and add coments to both the CSS & HTML. 
+The challenge was designed to support what we learned in class. it implements the basic knowledge of HTML & CSS. Upon recieving the websites code I immediatly notice the broken anchor on search engine optimization and fixed it so it would jump to the right section of the website. I then shifted my focus on the CSS and begin to clean up the repeative code and removed the reliance on pointless classes. I also implemented semantic HTML and was able to elimenate the header and the footer class and made the CSS rely on the HTML tags for that portion. I also updated both the head title and the image descriptions both play an important role in search engine optimization of the site. The last thing I did to the code to simplfy and make it easyier to read was group the CSS code by its section and add coments to both the CSS & HTML. 
   
 ## Screenshots
 
-![App Screenshot](assets/Horiseon-website.JPG)
+![App Screenshot](assets/images/Horiseon-website.JPG)
 
   
 ## Documentation
