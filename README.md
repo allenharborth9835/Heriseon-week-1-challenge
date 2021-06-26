@@ -30,7 +30,7 @@ The challenge was designed to support what we learned in class. it implements th
   
 ## Screenshots
 
-![App Screenshot](./assets/Horiseon-website.JPG)
+![App Screenshot](assets/Horiseon-website.JPG)
 
   
 ## Documentation
