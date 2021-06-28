@@ -35,7 +35,7 @@ The challenge was designed to support what we learned in class. it implements th
   
 ## Documentation
 
-[GitHub Repo](https://github.com/allenharborth9835/Heriseon-week-1-challenge)
-[Live Page on Github](https://allenharborth9835.github.io/Heriseon-week-1-challenge/)
+[GitHub Repo](https://github.com/allenharborth9835/Horiseon-week-1-challenge)
+[Live Page on Github](https://allenharborth9835.github.io/Horiseon-week-1-challenge/)
 
   
